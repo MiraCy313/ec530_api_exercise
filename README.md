@@ -1,7 +1,7 @@
 # ec530_api_exercise
 # Requirement
 #   requests --- used for url api requests
-#   FastAPPI --- used for defined local api services
+#   FastAPI  --- used for defined local api services
 #   uvicorn  --- used for enabling localhast requests
 #   random   --- used for random numbers
 
